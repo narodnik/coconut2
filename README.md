@@ -13,6 +13,13 @@ $ cargo test -- --nocapture
 
 That is the basic core of the tech.
 
+For the docs, you need sphinx-build (Python documentation generator):
+
+```console
+$ cd doc/
+$ make html
+```
+
 ## Network Infra
 
 Run these commands in separate terminals:
