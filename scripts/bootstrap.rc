@@ -1,0 +1,10 @@
+startup_message off
+
+screen -t "Adam" cargo run --bin adamd 
+split
+focus
+screen -t "Titan" cargo run --bin titand
+split
+focus
+screen -t "Mint" cargo run --bin mintd
+focus
