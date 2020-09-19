@@ -1,6 +1,6 @@
 # DarkWallet
 
-Anonymous financial system.
+> Your Keys. Your Privacy. Your Sovereignty.
 
 Your main entry point is the file `examples/simple.rs`. Run it and the unit tests with these commands:
 
